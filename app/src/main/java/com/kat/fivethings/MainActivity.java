@@ -39,10 +39,12 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        final TextView cprTextView = (TextView) findViewById(R.id.emergencyNumberTwo);
-        emergencyNumberTwoButton.setOnClickListener(new View.OnClickListener() {
+        TextView cprTextView = (TextView) findViewById(R.id.cprTextView);
+        cprTextView.setOnClickListener(new View.OnClickListener() {
+            @Override
             public void onClick(View v) {
-                // TODO
+                Intent intent = new Intent(MainActivity.this, DetailActivity.class);
+                startActivity(intent);
             }
         });
     }
