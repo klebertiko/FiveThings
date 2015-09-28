@@ -11,4 +11,7 @@
     <string name="emergencyNumberTwo">193</string>
 
     <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">Five Things to Save a Life</string>
+
+    <string name="hello_world">Hello world!</string>
 </resources>
