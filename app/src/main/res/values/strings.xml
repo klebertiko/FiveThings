@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Five Things to Save a Life</string>
+
+    <string name="cpr">CPR (Cardio Pulmonary Resuscitation)</string>
+    <string name="heimlichManeuver">Heimlich maneuver</string>
+    <string name="bleedingHemorrhage">Bleeding and hemorrhage</string>
+    <string name="drowning">Drowning</string>
+    <string name="burns">Burns</string>
+
+    <string name="emergencyNumberOne">192</string>
+    <string name="emergencyNumberTwo">193</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
