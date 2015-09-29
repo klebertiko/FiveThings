@@ -13,6 +13,9 @@ import android.widget.TextView;
 
 import java.util.Locale;
 
+/**
+ * App home screen, with buttons to call to emergency numbers and 5 things about first-aid
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
