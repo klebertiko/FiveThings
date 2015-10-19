@@ -10,7 +10,23 @@ public class DetailActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_detail);
+
+        Bundle bundleExtras = getIntent().getExtras();
+        if (bundleExtras != null) {
+            String detail = bundleExtras.getString("detail");
+
+            if ("cpr".equalsIgnoreCase(detail)) {
+                setContentView(R.layout.activity_detail_cpr);
+            } else if ("heimlichManeuver".equalsIgnoreCase(detail)) {
+                setContentView(R.layout.activity_detail_heimlichmaneuver);
+            } else if ("bleedingHemorrhage".equalsIgnoreCase(detail)) {
+                setContentView(R.layout.activity_detail_bleedinghemorrhage);
+            } else if ("drowning".equalsIgnoreCase(detail)) {
+                setContentView(R.layout.activity_detail_drowning);
+            } else if ("burns".equalsIgnoreCase(detail)) {
+                setContentView(R.layout.activity_detail_burns);
+            }
+        }
     }
 
     @Override

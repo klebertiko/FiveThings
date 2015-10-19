@@ -1,6 +1,7 @@
 package com.kat.fivethings;
 
 import android.content.Intent;
+import android.graphics.Color;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -25,15 +26,19 @@ public class MainActivity extends AppCompatActivity {
 
         // the layout on which you are working
         LinearLayout emergencyNumberLinearLayout = (LinearLayout) findViewById(R.id.emergencyNumberLinearLayout);
+
         // device language to show emergency number button
         String deviceLanguage = Locale.getDefault().getLanguage();
         if (deviceLanguage.equalsIgnoreCase("en")) { // us has one emergency number
-            // create button and set the properties for button
-            Button emergencyNumber911Button = new Button(this);
-            emergencyNumber911Button.setText(super.getString(R.string.emergencyNumber911));
             LinearLayout.LayoutParams linearLayoutParams = new LinearLayout.LayoutParams(
                     LinearLayout.LayoutParams.MATCH_PARENT,
                     LinearLayout.LayoutParams.MATCH_PARENT, 1.0f);
+
+            // create button and set the properties for button
+            Button emergencyNumber911Button = new Button(this);
+            emergencyNumber911Button.setText(super.getString(R.string.emergencyNumber911));
+            emergencyNumber911Button.setTextColor(Color.parseColor("#FFFFFF"));
+            emergencyNumber911Button.setTextSize(18f);
             emergencyNumber911Button.setLayoutParams(linearLayoutParams);
 
             // starts a phone call intent
@@ -57,6 +62,8 @@ public class MainActivity extends AppCompatActivity {
             // create button and set the properties for button
             Button emergencyNumberOneButton = new Button(this);
             emergencyNumberOneButton.setText(getString(R.string.emergencyNumberOne));
+            emergencyNumberOneButton.setTextColor(Color.parseColor("#FFFFFF"));
+            emergencyNumberOneButton.setTextSize(18f);
             emergencyNumberOneButton.setLayoutParams(lineLayoutParams);
 
             // starts a phone call intent
@@ -75,6 +82,8 @@ public class MainActivity extends AppCompatActivity {
             // create button and set the properties for button
             Button emergencyNumberTwoButton = new Button(this);
             emergencyNumberTwoButton.setText(getString(R.string.emergencyNumberTwo));
+            emergencyNumberTwoButton.setTextSize(18f);
+            emergencyNumberTwoButton.setTextColor(Color.parseColor("#FFFFFF"));
             emergencyNumberTwoButton.setLayoutParams(lineLayoutParams);
 
             // starts a phone call intent
@@ -97,6 +106,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, DetailActivity.class);
+                intent.putExtra("detail", "cpr");
                 startActivity(intent);
             }
         });
@@ -107,6 +117,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, DetailActivity.class);
+                intent.putExtra("detail", "heimlichManeuver");
                 startActivity(intent);
             }
         });
@@ -117,6 +128,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, DetailActivity.class);
+                intent.putExtra("detail", "bleedingHemorrhage");
                 startActivity(intent);
             }
         });
@@ -127,6 +139,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, DetailActivity.class);
+                intent.putExtra("detail", "drowning");
                 startActivity(intent);
             }
         });
@@ -137,6 +150,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, DetailActivity.class);
+                intent.putExtra("detail", "burns");
                 startActivity(intent);
             }
         });

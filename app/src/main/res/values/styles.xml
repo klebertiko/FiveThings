@@ -5,11 +5,11 @@
         <!-- Customize your theme here. -->
 
         <!-- Primary theme color of the app (sets background color of app bar) -->
-        <item name="colorPrimary">#F44336</item>
+        <item name="colorPrimary">#D32F2F</item>
         <!-- Darker variant for the status bar and contextual app bars -->
-        <item name="colorPrimaryDark">#D32F2F</item>
+        <item name="colorPrimaryDark">#B71C1C</item>
         <!-- Background color of buttons in the app -->
-        <item name="colorButtonNormal">#FF5252</item>
+        <item name="colorButtonNormal">#D32F2F</item>
 
     </style>
 
