@@ -15,31 +15,26 @@
     <string name="title_activity_detail">Five Things to Save a Life</string>
 
     <string name="cprFirstInstruction">
-        Place the victim on his or her back. Make sure he or she is lying as flat as possible - this will prevent injury while you\'re doing chest compressions. Tilt their head back by using your palm against their forehead and a push against their chin.
+        FIRST - Place the victim on his or her back. Make sure he or she is lying as flat as possible.
     </string>
 
     <string name="cprSecondInstruction">
-        Place the heel of one hand on the victim\'s breastbone, 2 finger-widths above the meeting area of the lower ribs, exactly between the nipples.
-        Place your second hand on top of the first hand, palms-down, interlock the fingers of the second hand between the first.
-        Position your body directly over your hands, so that your arms are straight and somewhat rigid. Don\'t flex the arms to push, but sort of lock your elbows, and use your upper body strength to push.
+        SECOND - Push hard, push fast in the middle of the chest at least 2 inches (5 centimeters) deep and at least 100 compressions per minute.
     </string>
 
     <string name="cprThirdInstruction">
-        Perform 30 chest compressions. Press down with both hands directly over the breastbone to perform a compression, which helps the heart beat. Chest compressions are more critical for correcting abnormal heart rhythms (ventricular fibrillation or pulseless ventricular tachycardia, heart rapidly quivering instead of beating).
-        You should press down by about 2 inches (5 cm).
-        Do the compressions in a relatively fast rhythm. Some agencies recommend doing compressions to the beat of the chorus of "Stayin\' Alive," a 1970s disco hit, or at roughly 100 beats per minute.
+        THIRD - Tilt the head back and lift the chin up.\n
+        - Pinch the nose shut then make a complete seal over the person’s mouth.\n
+        - Blow in for about 1 second to make the chest clearly rise.\n
+        - Give rescue breaths, one after the other.\n\nNote: If chest does not rise with rescue breaths, retilt the head and give another rescue breath.
     </string>
 
     <string name="cprFourthInstruction">
-        Make sure the airway is open. Place your hand on the victim\'s forehead and two fingers on their chin and tilt the head back to open the airway.
-        If you suspect a neck injury, pull the jaw forward rather than lifting the chin. If jaw thrust fails to open the airway, do a careful head tilt and chin lift.
-        If there are no signs of life, place a breathing barrier (if available) over the victim\'s mouth.
-        Give two rescue breaths (optional). The American Heart Association no longer considers rescue breaths necessary for CPR, as the chest compressions are more important. If you are trained in CPR and totally confident, give two rescue breaths after your 30 chest compressions. If you\'ve never done CPR before, or you\'re trained but rusty, stick with only chest compressions.[4]
-        Keeping the airway open, take the fingers that were on the forehead and pinch the victim\'s nose closed. Make a seal with your mouth over the victim\'s mouth and breathe out for about one second. Make sure you breathe slowly, as this will make sure the air goes in the lungs and not the stomach.
-        If the breath goes in, you should see the chest slightly rise and also feel it go in. Give a second rescue breath.
-        If the breath does not go in, re-position the head and try again. If it does not go in again, the victim may be choking. Do abdominal thrusts (the Heimlich maneuver) to remove the obstruction.
-        Repeat the cycle of 30 chest compressions. If you\'re also doing rescue breaths, keep doing a cycle of 30 chest compressions, and then 2 rescue breaths; repeat the 30 compressions and 2 more breaths.
-        You should do CPR for 2 minutes (5 cycles of compressions to breaths) before spend time checking for signs of life.
-        Continue CPR until someone takes over for you, emergency personnel arrive, you are too exhausted to continue, an automated external defibrillator (AED) is available for immediate use, or signs of life return.
+        FOURTH - Continue cycles of CPR. Do not stop CPR except in one of these situations:\n
+        - You find an obvious sign of life, such as breathing.\n
+        - An AED is ready to use.\n
+        - Another trained responder or EMS personnel take over.\n
+        - You are too exhausted to continue.\n
+        - The scene becomes unsafe.
     </string>
 </resources>
