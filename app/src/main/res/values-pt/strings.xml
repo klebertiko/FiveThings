@@ -12,7 +12,30 @@
     <string name="emergencyNumberOne">192</string>
     <string name="emergencyNumberTwo">193</string>
 
-    <string name="action_settings">Settings</string>
     <string name="title_activity_detail">Cinco Coisas para Salvar uma Vida</string>
+
+    <string name="cprFirstInstruction">
+        FIRST - Place the victim on his or her back. Make sure he or she is lying as flat as possible.
+    </string>
+
+    <string name="cprSecondInstruction">
+        SECOND - Push hard, push fast in the middle of the chest at least 2 inches (5 centimeters) deep and at least 100 compressions per minute.
+    </string>
+
+    <string name="cprThirdInstruction">
+        THIRD - Tilt the head back and lift the chin up.\n
+        - Pinch the nose shut then make a complete seal over the person’s mouth.\n
+        - Blow in for about 1 second to make the chest clearly rise.\n
+        - Give rescue breaths, one after the other.\n\nNote: If chest does not rise with rescue breaths, retilt the head and give another rescue breath.
+    </string>
+
+    <string name="cprFourthInstruction">
+        FOURTH - Continue cycles of CPR. Do not stop CPR except in one of these situations:\n
+        - You find an obvious sign of life, such as breathing.\n
+        - An AED is ready to use.\n
+        - Another trained responder or EMS personnel take over.\n
+        - You are too exhausted to continue.\n
+        - The scene becomes unsafe.
+    </string>
 
 </resources>
