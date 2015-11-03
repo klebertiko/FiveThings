@@ -18,7 +18,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="15sp"
-            android:text="@string/burnsFirstInstruction" />
+            android:text="@string/bleedingFirstInstruction" />
 
         <View
             android:layout_width="match_parent"
@@ -31,7 +31,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="15sp"
-            android:text="@string/burnsSecondInstruction" />
+            android:text="@string/bleedingSecondInstruction" />
 
         <View
             android:layout_width="match_parent"
@@ -44,7 +44,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="15sp"
-            android:text="@string/burnsThirdInstruction" />
+            android:text="@string/bleedingThirdInstruction" />
 
     </LinearLayout>
 

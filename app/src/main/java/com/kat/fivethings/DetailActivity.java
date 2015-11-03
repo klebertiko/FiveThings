@@ -17,10 +17,10 @@ public class DetailActivity extends AppCompatActivity {
 
             if ("cpr".equalsIgnoreCase(detail)) {
                 setContentView(R.layout.activity_detail_cpr);
-            } else if ("heimlichManeuver".equalsIgnoreCase(detail)) {
-                setContentView(R.layout.activity_detail_heimlichmaneuver);
-            } else if ("bleedingHemorrhage".equalsIgnoreCase(detail)) {
-                setContentView(R.layout.activity_detail_bleedinghemorrhage);
+            } else if ("consciousChoking".equalsIgnoreCase(detail)) {
+                setContentView(R.layout.activity_detail_consciouschoking);
+            } else if ("bleeding".equalsIgnoreCase(detail)) {
+                setContentView(R.layout.activity_detail_bleeding);
             } else if ("drowning".equalsIgnoreCase(detail)) {
                 setContentView(R.layout.activity_detail_drowning);
             } else if ("burns".equalsIgnoreCase(detail)) {

@@ -100,7 +100,7 @@ public class MainActivity extends AppCompatActivity {
             emergencyNumberLinearLayout.addView(emergencyNumberTwoButton);
         }
 
-        // creates a click event and starts detail activity for CPR
+        // creates a click event and starts detail activity for CPR (Cardio Pulmonary Resuscitation)
         TextView cprTextView = (TextView) findViewById(R.id.cprTextView);
         cprTextView.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -111,24 +111,24 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        // creates a click event and starts detail activity for heimlich maneuver
-        TextView heimlichManeuverTextView = (TextView) findViewById(R.id.heimlichManeuverTextView);
+        // creates a click event and starts detail activity for conscious choking (Heimlich Maneuver)
+        TextView heimlichManeuverTextView = (TextView) findViewById(R.id.consciousChokingTextView);
         heimlichManeuverTextView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, DetailActivity.class);
-                intent.putExtra("detail", "heimlichManeuver");
+                intent.putExtra("detail", "consciousChoking");
                 startActivity(intent);
             }
         });
 
-        // creates a click event and starts detail activity for bleeding hemorrhage
-        TextView bleedingHemorrhageTextView = (TextView) findViewById(R.id.bleedingHemorrhageTextView);
+        // creates a click event and starts detail activity for bleeding
+        TextView bleedingHemorrhageTextView = (TextView) findViewById(R.id.bleedingTextView);
         bleedingHemorrhageTextView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, DetailActivity.class);
-                intent.putExtra("detail", "bleedingHemorrhage");
+                intent.putExtra("detail", "bleeding");
                 startActivity(intent);
             }
         });

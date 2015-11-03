@@ -3,8 +3,8 @@
     <string name="app_name">Five Things to Save a Life</string>
 
     <string name="cpr">CPR (Cardio Pulmonary Resuscitation)</string>
-    <string name="heimlichManeuver">Heimlich maneuver</string>
-    <string name="bleedingHemorrhage">Bleeding and hemorrhage</string>
+    <string name="consciousChoking">Conscious Choking (Heimlich Maneuver)</string>
+    <string name="bleeding">External Bleeding</string>
     <string name="drowning">Drowning</string>
     <string name="burns">Burns</string>
 
@@ -35,5 +35,55 @@
         - Another trained responder or EMS personnel take over.\n
         - You are too exhausted to continue.\n
         - The scene becomes unsafe.
+    </string>
+
+    <string name="consciousChokingFirstInstruction">
+        FIRST - Give 5 back blows. Bend the person forward at the waist and give 5 back blows between the shoulder blades with the heel of one hand.
+    </string>
+
+    <string name="consciousChokingSecondInstruction">
+        SECOND - Give 5 abdominal thrusts (Heimlich maneuver).\n
+        - Place a fist with the thumb side against the middle of the person’s abdomen, just above the navel.\n
+        - Cover your fist with your other hand.\n
+        - Give 5 quick, upward abdominal thrusts.
+    </string>
+
+    <string name="consciousChokingThirdInstruction">
+        THIRD - Continue sets of 5 back blows and 5 abdominal thrusts until the:\n
+        - Object is forced out.\n
+        - Person can cough forcefully or breathe.\n
+        - Person becomes unconscious.
+    </string>
+
+    <string name="bleedingFirstInstruction">
+        FIRST - Cover the wound with a sterile dressing.
+    </string>
+
+    <string name="bleedingSecondInstruction">
+        SECOND - Apply direct pressure until bleeding stops.
+    </string>
+
+    <string name="bleedingThirdInstruction">
+        THIRD - Cover the dressing with bandage. Check for circulation beyond the injury (check for feeling, warmth and color).
+    </string>
+
+    <string name="burnsFirstInstruction">
+        FIRST - Remove from source of burn.
+    </string>
+
+    <string name="burnsSecondInstruction">
+        SECOND - Cool the burn with cold running water at least until pain is relieved.
+    </string>
+
+    <string name="burnsThirdInstruction">
+        THIRD - Cover loosely with sterile dressing and care for shock.
+    </string>
+
+    <string name="drowningFirstInstruction">
+        FIRST - Take the person out of water, look to see if the person’s chest is moving and check the person’s pulse for 10 seconds.
+    </string>
+
+    <string name="drowningSecondInstruction">
+        SECOND - If the person can’t breath start CPR (Cardio Pulmonary Resuscitation), see CPR section for instructions.
     </string>
 </resources>

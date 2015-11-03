@@ -59,22 +59,22 @@
         android:textSize="16sp" />
 
     <TextView
-        android:id="@+id/heimlichManeuverTextView"
+        android:id="@+id/consciousChokingTextView"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
         android:background="?android:attr/selectableItemBackground"
-        android:text="@string/heimlichManeuver"
+        android:text="@string/consciousChoking"
         android:gravity="center_vertical"
         android:textSize="16sp" />
 
     <TextView
-        android:id="@+id/bleedingHemorrhageTextView"
+        android:id="@+id/bleedingTextView"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
         android:background="?android:attr/selectableItemBackground"
-        android:text="@string/bleedingHemorrhage"
+        android:text="@string/bleeding"
         android:gravity="center_vertical"
         android:textSize="16sp" />
 
