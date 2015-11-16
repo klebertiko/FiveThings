@@ -15,76 +15,76 @@
     <string name="title_activity_detail">Cinco Coisas para Salvar uma Vida</string>
 
     <string name="cprFirstInstruction">
-        FIRST - Place the victim on his or her back. Make sure he or she is lying as flat as possible.
+        1. - Coloque a vítima de costas. Certifique-se de que ele ou ela está deitado o mais plano possível.
     </string>
 
     <string name="cprSecondInstruction">
-        SECOND - Push hard, push fast in the middle of the chest at least 2 inches (5 centimeters) deep and at least 100 compressions per minute.
+        2. - Empurre forte, empurre rápido no meio do peito, pelo menos, 2 polegadas (5 centímetros) de profundidade e pelo menos 100 compressões por minuto.
     </string>
 
     <string name="cprThirdInstruction">
-        THIRD - Tilt the head back and lift the chin up.\n
-        - Pinch the nose shut then make a complete seal over the person’s mouth.\n
-        - Blow in for about 1 second to make the chest clearly rise.\n
-        - Give rescue breaths, one after the other.\n\nNote: If chest does not rise with rescue breaths, retilt the head and give another rescue breath.
+        3. - Incline a cabeça para trás e levante o queixo para cima.\n
+        - Tampe o nariz da vítima e em seguida, faça uma vedação completa sobre a boca da pessoa.\n
+        - Respire na boca da vítima por cerca de 1 segundo para fazer o tórax elevar-se visivelmente.\n
+        - Dê respirações de resgate, uma após a outra.\n\nNota: Se o tórax da vítima não se elevar com respirações de resgate, incline a cabeça para trás novamente e dê outra respiração de resgate.
     </string>
 
     <string name="cprFourthInstruction">
-        FOURTH - Continue cycles of CPR. Do not stop CPR except in one of these situations:\n
-        - You find an obvious sign of life, such as breathing.\n
-        - An AED is ready to use.\n
-        - Another trained responder or EMS personnel take over.\n
-        - You are too exhausted to continue.\n
-        - The scene becomes unsafe.
+        4. - Continue os ciclos de RCP. Não pare a RCP, exceto em uma destas situações:\n
+        - Você encontra um sinal óbvio da vida, como a respiração.\n
+        - Um DEA (Desfibrilador Externo Automático) pronto para usar.\n
+        - Outro socorrista treinado ou paramédico assumir.\n
+        - Você está exausto demais para continuar.\n
+        - A cena torna-se insegura.
     </string>
 
     <string name="consciousChokingFirstInstruction">
-        FIRST - Give 5 back blows. Bend the person forward at the waist and give 5 back blows between the shoulder blades with the heel of one hand.
+        1. - Give 5 back blows. Bend the person forward at the waist and give 5 back blows between the shoulder blades with the heel of one hand.
     </string>
 
     <string name="consciousChokingSecondInstruction">
-        SECOND - Give 5 abdominal thrusts (Heimlich maneuver).\n
+        2. - Give 5 abdominal thrusts (Heimlich maneuver).\n
         - Place a fist with the thumb side against the middle of the person’s abdomen, just above the navel.\n
         - Cover your fist with your other hand.\n
         - Give 5 quick, upward abdominal thrusts.
     </string>
 
     <string name="consciousChokingThirdInstruction">
-        THIRD - Continue sets of 5 back blows and 5 abdominal thrusts until the:\n
+        3. - Continue sets of 5 back blows and 5 abdominal thrusts until the:\n
         - Object is forced out.\n
         - Person can cough forcefully or breathe.\n
         - Person becomes unconscious.
     </string>
 
     <string name="bleedingFirstInstruction">
-        FIRST - Cover the wound with a sterile dressing.
+        1. - Cover the wound with a sterile dressing.
     </string>
 
     <string name="bleedingSecondInstruction">
-        SECOND - Apply direct pressure until bleeding stops.
+        2. - Apply direct pressure until bleeding stops.
     </string>
 
     <string name="bleedingThirdInstruction">
-        THIRD - Cover the dressing with bandage. Check for circulation beyond the injury (check for feeling, warmth and color).
+        3. - Cover the dressing with bandage. Check for circulation beyond the injury (check for feeling, warmth and color).
     </string>
 
     <string name="burnsFirstInstruction">
-        FIRST - Remove from source of burn.
+        1. - Remove from source of burn.
     </string>
 
     <string name="burnsSecondInstruction">
-        SECOND - Cool the burn with cold running water at least until pain is relieved.
+        2. - Cool the burn with cold running water at least until pain is relieved.
     </string>
 
     <string name="burnsThirdInstruction">
-        THIRD - Cover loosely with sterile dressing and care for shock.
+        3. - Cover loosely with sterile dressing and care for shock.
     </string>
 
     <string name="drowningFirstInstruction">
-        FIRST - Take the person out of water, look to see if the person’s chest is moving and check the person’s pulse for 10 seconds.
+        1. - Take the person out of water, look to see if the person’s chest is moving and check the person’s pulse for 10 seconds.
     </string>
 
     <string name="drowningSecondInstruction">
-        SECOND - If the person can’t breath start CPR (Cardio Pulmonary Resuscitation), see CPR section for instructions.
+        2. - If the person can’t breath start CPR (Cardio Pulmonary Resuscitation), see CPR section for instructions.
     </string>
 </resources>
