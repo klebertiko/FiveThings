@@ -38,7 +38,7 @@
     </string>
 
     <string name="consciousChokingFirstInstruction">
-        1. - Give 5 back blows. Bend the person forward at the waist and give 5 back blows between the shoulder blades with the heel of one hand.
+        1. - Give 5 back blows: Bend the person forward at the waist and give 5 back blows between the shoulder blades with the heel of one hand.
     </string>
 
     <string name="consciousChokingSecondInstruction">
@@ -84,6 +84,6 @@
     </string>
 
     <string name="drowningSecondInstruction">
-        2. - If the person can’t breath start CPR (Cardio Pulmonary Resuscitation), see CPR section for instructions.
+        2. - If the person can’t breath start CPR (Cardio Pulmonary Resuscitation), see CPR item for instructions.
     </string>
 </resources>

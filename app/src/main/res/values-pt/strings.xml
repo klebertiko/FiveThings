@@ -39,52 +39,52 @@
     </string>
 
     <string name="consciousChokingFirstInstruction">
-        1. - Give 5 back blows. Bend the person forward at the waist and give 5 back blows between the shoulder blades with the heel of one hand.
+        1. - Dê 5 pancadas nas costas: Dobre a pessoa para frente na cintura e dar 5 golpes nas costas entre as omoplatas com o calcanhar da mão.
     </string>
 
     <string name="consciousChokingSecondInstruction">
-        2. - Give 5 abdominal thrusts (Heimlich maneuver).\n
-        - Place a fist with the thumb side against the middle of the person’s abdomen, just above the navel.\n
-        - Cover your fist with your other hand.\n
-        - Give 5 quick, upward abdominal thrusts.
+        2. - Dê 5 compressões abdominais (Manobra de Heimlich).\n
+        - Coloque um punho com o lado do polegar contra o meio do abdômen da pessoa, logo acima do umbigo.\n
+        - Cubra seu punho com a outra mão.\n
+        - Dê 5 compressões abdominais rápidas para cima.
     </string>
 
     <string name="consciousChokingThirdInstruction">
-        3. - Continue sets of 5 back blows and 5 abdominal thrusts until the:\n
-        - Object is forced out.\n
-        - Person can cough forcefully or breathe.\n
-        - Person becomes unconscious.
+        3. - Continue em conjuntos de 5 pancadas nas costas e 5 compressões abdominais até:\n
+        - Objeto é forçado a sair.\n
+        - Pessoa pode tossir com força ou respirar.\n
+        - Pessoa ficar inconsciente.
     </string>
 
     <string name="bleedingFirstInstruction">
-        1. - Cover the wound with a sterile dressing.
+        1. - Cobrir a ferida com um curativo estéril.
     </string>
 
     <string name="bleedingSecondInstruction">
-        2. - Apply direct pressure until bleeding stops.
+        2. - Aplicar pressão direta até o sangramento parar.
     </string>
 
     <string name="bleedingThirdInstruction">
-        3. - Cover the dressing with bandage. Check for circulation beyond the injury (check for feeling, warmth and color).
+        3. - Cubra o curativo com gaze. Verifique se há circulação além da lesão (verifique por sensação, cor e calor).
     </string>
 
     <string name="burnsFirstInstruction">
-        1. - Remove from source of burn.
+        1. - Remover da fonte de queimadura.
     </string>
 
     <string name="burnsSecondInstruction">
-        2. - Cool the burn with cold running water at least until pain is relieved.
+        2. - Resfriar a queimadura com água fria corrente pelo menos até que a dor seja aliviada.
     </string>
 
     <string name="burnsThirdInstruction">
-        3. - Cover loosely with sterile dressing and care for shock.
+        3. - Cubra folgadamente com gaze esterilizada e cuide para não sofre choques.
     </string>
 
     <string name="drowningFirstInstruction">
-        1. - Take the person out of water, look to see if the person’s chest is moving and check the person’s pulse for 10 seconds.
+        1. - Leve a pessoa para fora da água, olhar para ver se o peito da pessoa está se movendo e verificar o pulso da pessoa por 10 segundos.
     </string>
 
     <string name="drowningSecondInstruction">
-        2. - If the person can’t breath start CPR (Cardio Pulmonary Resuscitation), see CPR section for instructions.
+        2. - Se a pessoa não respirar, comece o RCP (Ressuscitação Cardio Pulmonar), ver item RCP para instruções.
     </string>
 </resources>
